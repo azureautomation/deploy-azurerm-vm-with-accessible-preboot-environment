@@ -1,0 +1,20 @@
+{
+    "Author": "Jason C Ryberg",
+    "ContentSize": 6443,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-azurerm-vm-with-accessible-preboot-environment/master/Create-ArmWinPeVm.ps1",
+    "DownloadCount": 600,
+    "Id": "Deploy-AzureRM-VM-with-80977ff5",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 424,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-2-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script deploys a VM to Azure using a customized VHD as its OS Disk.  This script is part of a Cloud OSD process, allowing for remote interaction with pre-boot environments in Azure VMs.",
+    "Title": "Deploy AzureRM VM with Accessible Pre-boot Environment",
+    "UpdatedDate": "2017-2-9T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-azurerm-vm-with-accessible-preboot-environment",
+    "UserTags": "Microsoft Azure, OSD, Cloud"
+}
